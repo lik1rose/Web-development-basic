@@ -1,0 +1,23 @@
+td {
+	width: 100px;
+	height: 100px;
+	/*background: grey;*/
+}
+
+.vertical {
+	border-left: 1px solid red;
+	border-right: 1px solid red;
+}
+
+.horion {
+	border-top: 1px solid red;
+	border-bottom: 1px solid red;
+}
+
+table {
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
